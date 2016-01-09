@@ -1,0 +1,22 @@
+{
+  "name": "first_flask",
+  "version": "0.0.0",
+  "authors": [
+    "astyfx <astyfx@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  },
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "homepage": ""
+}
